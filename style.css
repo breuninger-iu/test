@@ -1,8 +1,14 @@
 .menu>ul {
     list-style-type: none;
+    width: 200px;
 }
+
 
 li a {
     display: block;
     width: 60px;
+}
+
+.menu-item {
+    background-color: azure;
 }
